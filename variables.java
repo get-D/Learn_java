@@ -1,7 +1,7 @@
 import java.lang.*;
 
 class Variables{
-	public static void main(string[]args){
+	public static void main(String[] args){
 
 		byte b=5;
 	        short s=300;
