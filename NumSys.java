@@ -4,6 +4,7 @@ import java.util.*;
 class NumSys{
 	public static void main(String[]args){
 		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter an Integer number: ");
 		int x = sc.nextInt();
 		sc.close();
 		System.out.println("Number System Conversion: ");
